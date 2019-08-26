@@ -1,0 +1,22 @@
+brew install mercurial
+brew install vim
+brew install mas
+brew install tree
+
+brew tap tomgross/homebrew-hgprompt
+brew install hgprompt
+
+
+brew cask install "google-chrome"
+brew cask install "iterm2"
+brew cask install "intellij-idea"
+brew cask install "visual-studio-code"
+brew cask install "docker"
+brew cask install "keepassxc"
+
+
+brew tap AdoptOpenJDK/openjdk
+brew cask install "adoptopenjdk8"
+
+
+mas install 803453959 # slack
