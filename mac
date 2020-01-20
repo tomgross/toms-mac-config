@@ -1,18 +1,22 @@
-brew install mercurial
-brew install vim
+brew install git
+brew install macvim
 brew install mas
 brew install tree
+brew install vim
+brew install xz
 
-brew tap tomgross/homebrew-hgprompt
-brew install hgprompt
 
-
-brew cask install "google-chrome"
-brew cask install "iterm2"
-brew cask install "intellij-idea"
-brew cask install "visual-studio-code"
+brew cask install "balsamiq-mockups"
+brew cask install "camtasia"
+brew cask install "chromedriver"
 brew cask install "docker"
+brew cask install "firefox"
+brew cask install "google-chrome"
+brew cask install "intellij-idea"
+brew cask install "iterm2"
 brew cask install "keepassxc"
+brew cask install "timular"
+brew cask install "visual-studio-code"
 
 
 brew tap AdoptOpenJDK/openjdk
