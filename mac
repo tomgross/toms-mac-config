@@ -21,6 +21,10 @@ brew cask install "spotify"
 brew cask install "timular"
 brew cask install "visual-studio-code"
 
+# additional taps
+brew tap oncletom/brew
+brew install cpdf
+
 
 # local
 # TODO: make a custom tap ...
