@@ -1,6 +1,5 @@
 brew install git
 brew install macvim
-brew install mas
 brew install maven
 brew install tree
 brew install vim
@@ -16,10 +15,11 @@ brew cask install "google-chrome"
 brew cask install "intellij-idea"
 brew cask install "iterm2"
 brew cask install "keepassxc"
-brew cask install "ngrok""
+brew cask install "ngrok"
 brew cask install "spotify"
 brew cask install "timular"
 brew cask install "visual-studio-code"
+brew cask install "owncloud"
 
 # additional taps
 brew tap oncletom/brew
@@ -33,4 +33,3 @@ brew cask install "pcloud-drive.rb"
 brew tap AdoptOpenJDK/openjdk
 brew cask install "adoptopenjdk8"
 
-mas install 803453959 # slack
